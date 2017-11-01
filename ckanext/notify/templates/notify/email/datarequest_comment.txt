@@ -1,6 +1,6 @@
 Hello,
 
-A data request has been commented on in {{ site_title }}:
+A new comment has been made on your datarequest  at {{ site_title }}:
 
 Title: {{ datarequest_title }}
 Description: {{ datarequest_description }}
